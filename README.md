@@ -76,11 +76,12 @@ plt.show()
 9   45   65000
 ```
 
-![Histogram](exp2-1.png)
+<img width="748" height="476" alt="image" src="https://github.com/user-attachments/assets/8dc36adb-c003-497f-b852-4c8658a5e9e4" />
 
-![Scatter plot](exp2-2.png)
 
-![Boxplot](Exp2-3.png)
+<img width="720" height="513" alt="image" src="https://github.com/user-attachments/assets/57dd270b-bf38-4b10-9051-e4fe8a9b7688" />
+
+<img width="731" height="422" alt="image" src="https://github.com/user-attachments/assets/86557edf-4877-4b51-8868-10bc15f4ac55" />
 
 ## result
 
